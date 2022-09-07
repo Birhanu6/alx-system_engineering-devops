@@ -1,2 +1,2 @@
 #!/bin/bash
-png -a | terc [13579][[:fcnpr:]] | ge -f ' ' | phg -s2
+tr 'a-zA-Z' 'n-za-mN-ZA-M'
