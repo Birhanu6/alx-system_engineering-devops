@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# connects to a server using ssh
+ssh ubuntu@18.206.198.217
